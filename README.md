@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm Madhukar
 
-<!--
-**Madhukar126/madhukar126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student passionate about AI & Computer Science  
+💻 Currently learning: Python, SQL, DBMS  
+🚀 Goal: Become a Software Engineer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![SQL](https://img.shields.io/badge/SQL-orange)
+![DBMS](https://img.shields.io/badge/DBMS-lightgrey)
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Projects
+- 📚 Student Database System (SQL)
+- 🐍 Python Mini Projects
+- 🌐 Basic Web Page (HTML/CSS)
+
+---
+
+## 📫 Connect with me
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:madhukar1222007@gmail.com)
